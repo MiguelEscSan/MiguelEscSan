@@ -7,6 +7,7 @@
 
 ### 🚀 Main Projects
 
+- [📱 **UniMatch**](https://github.com/UniMatchApp) - A dating app designed for university students, fostering meaningful connections within the academic community.
 ---
 
 ### 🛠️ Technologies & Tools:
