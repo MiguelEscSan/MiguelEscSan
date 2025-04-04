@@ -15,12 +15,16 @@
 - **Databases:**  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Tools & Frameworks:**  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEscSan&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MiguelEscSan&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MiguelEscSan&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEscSan&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelEscSan&theme=merko&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
 
 ---
 ### 🌐 Socials:
