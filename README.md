@@ -59,10 +59,6 @@ I am a Computer Science student at the University of Las Palmas de Gran Canaria,
     <img width="12" />
   </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEscSan&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats:
