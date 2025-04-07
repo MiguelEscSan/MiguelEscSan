@@ -1,8 +1,10 @@
-## 👋 Hi, I'm Miguel!
+# 👋 Hi, I'm Miguel!
 
 
 ### 🖥️ Computer Science Engineer
+
 I am a Computer Science student at the University of Las Palmas de Gran Canaria, where I began my studies in 2021. During my education, I have acquired a solid foundation in various aspects of computer science, from programming and software development to networks and operating systems.
+
 ---
 
 ### 🚀 Main Projects
