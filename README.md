@@ -69,7 +69,7 @@ I am a Computer Science student at the University of Las Palmas de Gran Canaria,
 ---
 
 ### 🌐 Socials:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/miguel-escobedo-santana-a4544a314/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
